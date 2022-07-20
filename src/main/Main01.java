@@ -14,7 +14,7 @@ public class Main01 {
 
 	public static void main(String[] args) {
 
-		Path file = Paths.get("C:/ForDevelop/pleiades2019/WorkSpace/a/src/main/fifa.txt");
+		Path file = Paths.get("fifa.txtの絶対パス");
 		String text = "";
 		try {
 			text = Files.readString(file);
@@ -247,11 +247,10 @@ public class Main01 {
 				}
 			}
 		}
-		System.out.println(playerList.size());
 
 		//playerListの値をファイルに書き出し
 		try {
-			FileWriter playerFile = new FileWriter("C:/ForDevelop/pleiades2019/WorkSpace/a/src/main/player.txt");
+			FileWriter playerFile = new FileWriter("player.txtの絶対パス");
 			PrintWriter printWriter = new PrintWriter(new BufferedWriter(playerFile));
 
 			//カラムを書き込む
