@@ -1,0 +1,603 @@
+playerId	playerName	position	team	point
+361536	R. Avila	[{'y': 51, 'x': 50}, {'y': 38, 'x': 28}]	Panama	-5
+273683	F. Escobar	[{'y': 38, 'x': 28}, {'y': 70, 'x': 68}]	Panama	26
+86414	A. Godoy	[{'y': 70, 'x': 68}, {'y': 76, 'x': 63}]	Panama	10
+120717	O. Haddadi	[{'y': 30, 'x': 32}, {'y': 24, 'x': 37}]	Tunisia	23
+125848	A. Machado	[{'y': 76, 'x': 63}, {'y': 54, 'x': 67}]	Panama	3
+354043	G. Chaalali	[{'y': 46, 'x': 33}, {'y': 30, 'x': 53}]	Tunisia	17
+59083	G. G\u00f3mez	[{'y': 70, 'x': 47}, {'y': 56, 'x': 56}]	Panama	29
+91263	R. Torres	[{'y': 67, 'x': 27}, {'y': 53, 'x': 15}]	Panama	35
+125774	J. Penedo	[{'y': 53, 'x': 15}, {'y': 33, 'x': 51}]	Panama	50
+241077	Y. B\u00e1rcenas	[{'y': 33, 'x': 51}, {'y': 33, 'x': 44}]	Panama	13
+116997	G. Torres	[{'y': 11, 'x': 92}, {'y': 6, 'x': 89}]	Panama	-3
+293080	H. Nagguez	[{'y': 89, 'x': 8}, {'y': 94, 'x': 11}]	Tunisia	6
+25776	W. Khazri	[{'y': 89, 'x': 42}, {'y': 84, 'x': 40}]	Tunisia	30
+120900	R. Bedoui	[{'y': 65, 'x': 21}, {'y': 67, 'x': 20}]	Tunisia	12
+120898	A. Mathlouthi	[{'y': 60, 'x': 19}, {'y': 37, 'x': 24}]	Tunisia	14
+331763	Y. Meriah	[{'y': 37, 'x': 24}, {'y': 24, 'x': 28}]	Tunisia	31
+120853	F. Sassi	[{'y': 24, 'x': 28}, {'y': 56, 'x': 31}]	Tunisia	-2
+131862	L. Ovalle	[{'y': 10, 'x': 36}, {'y': 36, 'x': 40}]	Panama	14
+209354	F. Ben Youssef	[{'y': 90, 'x': 64}, {'y': 64, 'x': 60}]	Tunisia	41
+26100	N. Sliti	[{'y': 52, 'x': 62}, {'y': 41, 'x': 75}]	Tunisia	17
+401861	J. Rodriguez	[{'y': 77, 'x': 68}, {'y': 90, 'x': 66}]	Panama	18
+246946	E. Skhiri	[{'y': 44, 'x': 26}, {'y': 21, 'x': 19}]	Tunisia	5
+28094	A. Badri	[{'y': 53, 'x': 46}, {'y': 46, 'x': 45}]	Tunisia	13
+116293	H. Cummings	[{'y': 59, 'x': 19}, {'y': 70, 'x': 70}]	Panama	9
+114864	L. Tejada	[{'y': 30, 'x': 61}, {'y': 28, 'x': 65}]	Panama	-15
+293128	A. Khalil	[{'y': 3, 'x': 24}, {'y': 25, 'x': 20}]	Tunisia	3
+131602	A. Arroyo	[{'y': 49, 'x': 83}, {'y': 47, 'x': 69}]	Panama	2
+408827	B. Srarfi	[{'y': 5, 'x': 71}, {'y': 8, 'x': 76}]	Tunisia	4
+237034	Gon\u00e7alo Guedes	[{'y': 50, 'x': 50}, {'y': 43, 'x': 45}]	Portugal	25
+70403	Adrien Silva	[{'y': 43, 'x': 45}, {'y': 5, 'x': 37}]	Portugal	31
+28907	Rapha\u00ebl Guerreiro	[{'y': 5, 'x': 37}, {'y': 9, 'x': 43}]	Portugal	57
+70965	Jo\u00e3o M\u00e1rio	[{'y': 9, 'x': 43}, {'y': 6, 'x': 35}]	Portugal	13
+299618	N. N\u00e1ndez	[{'y': 91, 'x': 57}, {'y': 94, 'x': 65}]	Uruguay	11
+8126	Jos\u00e9 Fonte	[{'y': 9, 'x': 7}, {'y': 10, 'x': 4}]	Portugal	60
+20460	M. C\u00e1ceres	[{'y': 88, 'x': 56}, {'y': 71, 'x': 66}]	Uruguay	42
+361807	R. Bentancur	[{'y': 65, 'x': 60}, {'y': 49, 'x': 62}]	Uruguay	49
+21174	E. Cavani	[{'y': 66, 'x': 73}, {'y': 68, 'x': 74}]	Uruguay	41
+7972	L. Su\u00e1rez	[{'y': 83, 'x': 92}, {'y': 75, 'x': 85}]	Uruguay	86
+3433	D. God\u00edn	[{'y': 57, 'x': 44}, {'y': 53, 'x': 16}]	Uruguay	47
+32641	F. Muslera	[{'y': 53, 'x': 16}, {'y': 66, 'x': 25}]	Uruguay	44
+227894	J. Gim\u00e9nez	[{'y': 66, 'x': 25}, {'y': 52, 'x': 30}]	Uruguay	80
+333571	L. Torreira	[{'y': 52, 'x': 30}, {'y': 63, 'x': 28}]	Uruguay	38
+116269	D. Laxalt	[{'y': 3, 'x': 38}, {'y': 16, 'x': 71}]	Uruguay	34
+3305	Pepe	[{'y': 84, 'x': 29}, {'y': 85, 'x': 30}]	Portugal	58
+3322	Cristiano Ronaldo	[{'y': 9, 'x': 86}, {'y': 10, 'x': 81}]	Portugal	77
+265673	Portugal	[{'y': 66, 'x': 94}, {'y': 100, 'x': 100}]		34
+37762	William Carvalho	[{'y': 24, 'x': 33}, {'y': 6, 'x': 36}]	Portugal	32
+116349	M. Vecino	[{'y': 56, 'x': 40}, {'y': 75, 'x': 30}]	Uruguay	36
+70381	Ricardo Pereira	[{'y': 97, 'x': 54}, {'y': 71, 'x': 55}]	Portugal	-1
+70134	Rui Patr\u00edcio	[{'y': 100, 'x': 100}, {'y': 45, 'x': 4}]	Portugal	44
+32597	Ricardo Quaresma	[{'y': 88, 'x': 89}, {'y': 55, 'x': 91}]	Portugal	26
+70095	C. Rodr\u00edguez	[{'y': 12, 'x': 17}, {'y': 11, 'x': 23}]	Uruguay	30
+3714	C. Stuani	[{'y': 82, 'x': 47}, {'y': 97, 'x': 47}]	Uruguay	-7
+135927	Andr\u00e9 Silva	[{'y': 47, 'x': 92}, {'y': 46, 'x': 92}]	Portugal	5
+86340	C. S\u00e1nchez	[{'y': 95, 'x': 26}, {'y': 91, 'x': 36}]	Uruguay	25
+32599	Manuel Fernandes	[{'y': 67, 'x': 45}, {'y': 71, 'x': 46}]	Portugal	3
+7905	R. Lukaku	[{'y': 49, 'x': 50}, {'y': 50, 'x': 40}]	Belgium	52
+70123	A. Witsel	[{'y': 50, 'x': 40}, {'y': 67, 'x': 38}]	Belgium	53
+38021	K. De Bruyne	[{'y': 67, 'x': 38}, {'y': 60, 'x': 27}]	Belgium	99
+8034	D. Boyata	[{'y': 60, 'x': 27}, {'y': 86, 'x': 19}]	Belgium	44
+36	T. Alderweireld	[{'y': 86, 'x': 19}, {'y': 95, 'x': 35}]	Belgium	75
+37824	T. Meunier	[{'y': 95, 'x': 35}, {'y': 87, 'x': 48}]	Belgium	41
+122	D. Mertens	[{'y': 72, 'x': 68}, {'y': 76, 'x': 67}]	Belgium	53
+25707	E. Hazard	[{'y': 57, 'x': 70}, {'y': 55, 'x': 68}]	Belgium	160
+10014	S. Ben Youssef	[{'y': 43, 'x': 30}, {'y': 45, 'x': 32}]	Tunisia	9
+120784	F. Ben Mustapha	[{'y': 66, 'x': 12}, {'y': 89, 'x': 18}]	Tunisia	41
+295747	D. Bronn	[{'y': 95, 'x': 23}, {'y': 85, 'x': 14}]	Tunisia	15
+120839	A. Ma\u00e2loul	[{'y': 9, 'x': 29}, {'y': 33, 'x': 31}]	Tunisia	6
+48	J. Vertonghen	[{'y': 39, 'x': 30}, {'y': 7, 'x': 76}]	Belgium	60
+3429	T. Courtois	[{'y': 34, 'x': 5}, {'y': 18, 'x': 57}]	Belgium	111
+275243	S. Khaoui	[{'y': 73, 'x': 66}, {'y': 74, 'x': 68}]	Tunisia	5
+134769	Y. Carrasco	[{'y': 4, 'x': 70}, {'y': 7, 'x': 77}]	Belgium	46
+21333	Y. Benalouane	[{'y': 83, 'x': 43}, {'y': 84, 'x': 51}]	Tunisia	6
+8249	M. Fellaini	[{'y': 27, 'x': 37}, {'y': 27, 'x': 32}]	Belgium	27
+38093	M. Batshuayi	[{'y': 18, 'x': 63}, {'y': 18, 'x': 56}]	Belgium	13
+263802	Y. Tielemans	[{'y': 84, 'x': 44}, {'y': 94, 'x': 39}]	Belgium	13
+340386	Gabriel Jesus	[{'y': 49, 'x': 50}, {'y': 42, 'x': 38}]	Brazil	51
+40756	Casemiro	[{'y': 42, 'x': 38}, {'y': 65, 'x': 42}]	Brazil	85
+40550	Paulinho	[{'y': 65, 'x': 42}, {'y': 35, 'x': 29}]	Brazil	35
+3431	Jo\u00e3o Miranda	[{'y': 35, 'x': 29}, {'y': 32, 'x': 38}]	Brazil	71
+3802	Philippe Coutinho	[{'y': 32, 'x': 38}, {'y': 31, 'x': 29}]	Brazil	70
+3310	Marcelo	[{'y': 7, 'x': 41}, {'y': 12, 'x': 35}]	Brazil	68
+383	D. Tadi\u0107	[{'y': 88, 'x': 65}, {'y': 100, 'x': 66}]	Serbia	38
+424241	N. Milenkovi\u0107	[{'y': 88, 'x': 38}, {'y': 72, 'x': 64}]	Serbia	48
+128214	A. Mitrovi\u0107	[{'y': 72, 'x': 64}, {'y': 90, 'x': 78}]	Serbia	37
+214220	Alisson	[{'y': 37, 'x': 4}, {'y': 12, 'x': 8}]	Brazil	33
+40810	Neymar	[{'y': 17, 'x': 51}, {'y': 7, 'x': 47}]	Brazil	122
+15214	A. Rukavina	[{'y': 96, 'x': 45}, {'y': 100, 'x': 50}]	Serbia	10
+265865	S. Milinkovi\u0107-Savi\u0107	[{'y': 83, 'x': 36}, {'y': 91, 'x': 45}]	Serbia	10
+70122	N. Mati\u0107	[{'y': 30, 'x': 26}, {'y': 5, 'x': 46}]	Serbia	28
+8306	A. Kolarov	[{'y': 5, 'x': 46}, {'y': 11, 'x': 30}]	Serbia	36
+40707	F\u00e1gner	[{'y': 84, 'x': 54}, {'y': 91, 'x': 57}]	Brazil	25
+127796	F. Kosti\u0107	[{'y': 16, 'x': 46}, {'y': 9, 'x': 43}]	Serbia	11
+105333	Willian	[{'y': 96, 'x': 49}, {'y': 90, 'x': 44}]	Brazil	94
+127671	V. Stojkovi\u0107	[{'y': 59, 'x': 15}, {'y': 48, 'x': 67}]	Serbia	29
+20394	Thiago Silva	[{'y': 66, 'x': 30}, {'y': 29, 'x': 26}]	Brazil	68
+20941	A. Ljaji\u0107	[{'y': 70, 'x': 70}, {'y': 91, 'x': 79}]	Serbia	8
+11095	M. Veljkovic	[{'y': 19, 'x': 27}, {'y': 22, 'x': 38}]	Serbia	7
+3434	Filipe Luis	[{'y': 22, 'x': 39}, {'y': 9, 'x': 54}]	Brazil	25
+105339	Fernandinho	[{'y': 84, 'x': 45}, {'y': 98, 'x': 46}]	Brazil	46
+140085	A. \u017divkovi\u0107	[{'y': 60, 'x': 70}, {'y': 83, 'x': 67}]	Serbia	5
+14785	Renato Augusto	[{'y': 26, 'x': 64}, {'y': 29, 'x': 58}]	Brazil	11
+237274	N. Radonji\u0107	[{'y': 12, 'x': 69}, {'y': 14, 'x': 67}]	Serbia	1
+54	C. Eriksen	[{'y': 50, 'x': 50}, {'y': 38, 'x': 32}]	Denmark	77
+55979	M. J\u00f8rgensen	[{'y': 38, 'x': 32}, {'y': 76, 'x': 75}]	Denmark	28
+69396	D. Vida	[{'y': 24, 'x': 25}, {'y': 37, 'x': 35}]	Croatia	64
+8287	L. Modri\u0107	[{'y': 37, 'x': 35}, {'y': 42, 'x': 34}]	Croatia	105
+55990	T. Delaney	[{'y': 63, 'x': 65}, {'y': 58, 'x': 66}]	Denmark	26
+135103	A. Christensen	[{'y': 61, 'x': 57}, {'y': 65, 'x': 69}]	Denmark	47
+69968	M. Brozovi\u0107	[{'y': 35, 'x': 31}, {'y': 35, 'x': 41}]	Croatia	57
+3476	I. Rakiti\u0107	[{'y': 32, 'x': 35}, {'y': 35, 'x': 28}]	Croatia	100
+14812	I. Peri\u0161i\u0107	[{'y': 18, 'x': 35}, {'y': 35, 'x': 26}]	Croatia	88
+56394	H. Dalsgaard	[{'y': 82, 'x': 65}, {'y': 65, 'x': 74}]	Denmark	49
+55968	M. Braithwaite	[{'y': 65, 'x': 74}, {'y': 72, 'x': 87}]	Denmark	26
+55957	J. Knudsen	[{'y': 100, 'x': 91}, {'y': 54, 'x': 91}]	Denmark	18
+14943	M. Mand\u017euki\u0107	[{'y': 46, 'x': 9}, {'y': 50, 'x': 8}]	Croatia	63
+25393	D. Lovren	[{'y': 50, 'x': 8}, {'y': 46, 'x': 8}]	Croatia	92
+20433	S. Kj\u00e6r	[{'y': 54, 'x': 91}, {'y': 50, 'x': 92}]	Denmark	23
+69409	\u0160. Vrsaljko	[{'y': 56, 'x': 6}, {'y': 59, 'x': 4}]	Croatia	48
+135747	D. Suba\u0161i\u0107	[{'y': 0, 'x': 0}, {'y': 59, 'x': 4}]	Croatia	80
+105361	I. Strini\u0107	[{'y': 0, 'x': 76}, {'y': 14, 'x': 79}]	Croatia	43
+135150	A. Cornelius	[{'y': 70, 'x': 41}, {'y': 68, 'x': 41}]	Denmark	9
+69616	A. Rebi\u0107	[{'y': 84, 'x': 48}, {'y': 86, 'x': 74}]	Croatia	39
+8480	K. Schmeichel	[{'y': 45, 'x': 9}, {'y': 15, 'x': 57}]	Denmark	61
+56274	Y. Poulsen	[{'y': 78, 'x': 66}, {'y': 79, 'x': 73}]	Denmark	36
+405	L. Sch\u00f6ne	[{'y': 67, 'x': 55}, {'y': 72, 'x': 59}]	Denmark	29
+15080	N. J\u00f8rgensen	[{'y': 75, 'x': 75}, {'y': 75, 'x': 63}]	Denmark	34
+69404	M. Kova\u010di\u0107	[{'y': 26, 'x': 40}, {'y': 42, 'x': 33}]	Croatia	25
+69964	J. Pivari\u0107	[{'y': 8, 'x': 88}, {'y': 37, 'x': 92}]	Croatia	38
+69411	A. Kramari\u0107	[{'y': 6, 'x': 41}, {'y': 6, 'x': 32}]	Croatia	44
+56025	M. Krohn-Dehli	[{'y': 77, 'x': 34}, {'y': 85, 'x': 29}]	Denmark	6
+241945	P. Sisto	[{'y': 37, 'x': 17}, {'y': 53, 'x': 17}]	Denmark	37
+69400	M. Badelj	[{'y': 50, 'x': 54}, {'y': 50, 'x': 56}]	Croatia	28
+99902	P. Zieli\u0144ski	[{'y': 50, 'x': 51}, {'y': 42, 'x': 32}]	Poland	25
+25537	G. Krychowiak	[{'y': 42, 'x': 32}, {'y': 93, 'x': 60}]	Poland	30
+14730	T. Usami	[{'y': 7, 'x': 40}, {'y': 0, 'x': 43}]	Japan	23
+99833	B. Bereszy\u0144ski	[{'y': 100, 'x': 60}, {'y': 84, 'x': 43}]	Poland	17
+21097	K. Glik	[{'y': 84, 'x': 43}, {'y': 37, 'x': 33}]	Poland	10
+240032	J. Bednarek	[{'y': 37, 'x': 33}, {'y': 93, 'x': 29}]	Poland	36
+20517	Y. Nagatomo	[{'y': 2, 'x': 39}, {'y': 29, 'x': 88}]	Japan	34
+94764	Y. Muto	[{'y': 29, 'x': 88}, {'y': 27, 'x': 88}]	Japan	8
+7847	\u0141. Fabia\u0144ski	[{'y': 73, 'x': 12}, {'y': 72, 'x': 22}]	Poland	8
+33032	K. Grosicki	[{'y': 97, 'x': 54}, {'y': 98, 'x': 66}]	Poland	26
+94828	G. Shibasaki	[{'y': 17, 'x': 32}, {'y': 16, 'x': 28}]	Japan	43
+14817	R. Lewandowski	[{'y': 83, 'x': 68}, {'y': 84, 'x': 72}]	Poland	17
+94630	T. Makino	[{'y': 16, 'x': 28}, {'y': 18, 'x': 35}]	Japan	11
+99381	A. J\u0119drzejczyk	[{'y': 23, 'x': 63}, {'y': 34, 'x': 85}]	Poland	-2
+703	M. Yoshida	[{'y': 66, 'x': 15}, {'y': 77, 'x': 11}]	Japan	70
+225324	R. Kurzawa	[{'y': 0, 'x': 100}, {'y': 48, 'x': 96}]	Poland	11
+100140	J. G\u00f3ralski	[{'y': 12, 'x': 40}, {'y': 39, 'x': 26}]	Poland	13
+14763	S. Okazaki	[{'y': 3, 'x': 80}, {'y': 3, 'x': 81}]	Japan	18
+14749	G. Sakai	[{'y': 89, 'x': 48}, {'y': 94, 'x': 39}]	Japan	4
+94695	H. Sakai	[{'y': 94, 'x': 43}, {'y': 92, 'x': 45}]	Japan	46
+95010	H. Yamaguchi	[{'y': 12, 'x': 36}, {'y': 11, 'x': 46}]	Japan	2
+37896	E. Kawashima	[{'y': 68, 'x': 13}, {'y': 68, 'x': 25}]	Japan	44
+94831	Y. \u014csako	[{'y': 12, 'x': 62}, {'y': 16, 'x': 64}]	Japan	42
+14836	T. Inui	[{'y': 9, 'x': 43}, {'y': 52, 'x': 29}]	Japan	28
+99479	\u0141. Teodorczyk	[{'y': 67, 'x': 66}, {'y': 50, 'x': 54}]	Poland	-1
+15282	S. Peszko	[{'y': 23, 'x': 69}, {'y': 2, 'x': 58}]	Poland	0
+14929	M. Hasebe	[{'y': 64, 'x': 33}, {'y': 45, 'x': 35}]	Japan	13
+3682	A. Griezmann	[{'y': 50, 'x': 50}, {'y': 69, 'x': 33}]	France	87
+3309	R. Varane	[{'y': 69, 'x': 33}, {'y': 74, 'x': 70}]	France	96
+26010	O. Giroud	[{'y': 74, 'x': 70}, {'y': 76, 'x': 69}]	France	46
+86722	N. Tagliafico	[{'y': 26, 'x': 30}, {'y': 24, 'x': 31}]	Argentina	41
+90991	F. Armani	[{'y': 23, 'x': 28}, {'y': 29, 'x': 69}]	Argentina	28
+7936	P. Pogba	[{'y': 71, 'x': 31}, {'y': 87, 'x': 34}]	France	113
+353833	K. Mbapp\u00e9	[{'y': 87, 'x': 34}, {'y': 83, 'x': 23}]	France	123
+340646	B. Pavard	[{'y': 83, 'x': 23}, {'y': 47, 'x': 8}]	France	57
+25381	H. Lloris	[{'y': 47, 'x': 8}, {'y': 28, 'x': 18}]	France	44
+25397	S. Umtiti	[{'y': 28, 'x': 18}, {'y': 73, 'x': 29}]	France	107
+3280	\u00c9. Banega	[{'y': 28, 'x': 62}, {'y': 6, 'x': 62}]	Argentina	20
+101652	M. Rojo	[{'y': 20, 'x': 28}, {'y': 9, 'x': 39}]	Argentina	35
+70086	N. Otamendi	[{'y': 74, 'x': 26}, {'y': 97, 'x': 28}]	Argentina	65
+86220	G. Mercado	[{'y': 97, 'x': 28}, {'y': 97, 'x': 42}]	Argentina	19
+285396	C. Pav\u00f3n	[{'y': 97, 'x': 63}, {'y': 98, 'x': 34}]	Argentina	18
+3359	L. Messi	[{'y': 62, 'x': 58}, {'y': 60, 'x': 55}]	Argentina	108
+31528	N. Kant\u00e9	[{'y': 40, 'x': 45}, {'y': 52, 'x': 47}]	France	134
+3355	J. Mascherano	[{'y': 40, 'x': 44}, {'y': 38, 'x': 32}]	Argentina	40
+86234	E. P\u00e9rez	[{'y': 94, 'x': 40}, {'y': 97, 'x': 28}]	Argentina	3
+25437	B. Matuidi	[{'y': 5, 'x': 31}, {'y': 7, 'x': 31}]	France	18
+279545	L. Hern\u00e1ndez	[{'y': 37, 'x': 15}, {'y': 41, 'x': 14}]	France	75
+3314	\u00c1. di Mar\u00eda	[{'y': 22, 'x': 90}, {'y': 20, 'x': 93}]	Argentina	25
+3463	F. Fazio	[{'y': 63, 'x': 29}, {'y': 33, 'x': 37}]	Argentina	6
+8325	S. Ag\u00fcero	[{'y': 6, 'x': 84}, {'y': 0, 'x': 93}]	Argentina	38
+146459	M. Meza	[{'y': 90, 'x': 59}, {'y': 58, 'x': 36}]	Argentina	23
+209091	C. Tolisso	[{'y': 13, 'x': 78}, {'y': 14, 'x': 72}]	France	36
+28115	N. Fekir	[{'y': 54, 'x': 44}, {'y': 55, 'x': 42}]	France	22
+25770	F. Thauvin	[{'y': 99, 'x': 22}, {'y': 95, 'x': 8}]	France	1
+238055	A. Nabbout	[{'y': 49, 'x': 49}, {'y': 54, 'x': 32}]	Australia	6
+61395	T. Sainsbury	[{'y': 54, 'x': 32}, {'y': 0, 'x': 60}]	Australia	52
+61425	M. Milligan	[{'y': 6, 'x': 38}, {'y': 17, 'x': 59}]	Australia	31
+62389	A. Mooy	[{'y': 25, 'x': 57}, {'y': 23, 'x': 74}]	Australia	43
+16151	R. Kruse	[{'y': 23, 'x': 74}, {'y': 20, 'x': 69}]	Australia	17
+8410	M. Jedinak	[{'y': 41, 'x': 69}, {'y': 55, 'x': 90}]	Australia	45
+61390	M. Ryan	[{'y': 100, 'x': 100}, {'y': 30, 'x': 5}]	Australia	34
+15020	M. Leckie	[{'y': 40, 'x': 2}, {'y': 61, 'x': 3}]	Australia	61
+286390	O. Demb\u00e9l\u00e9	[{'y': 4, 'x': 74}, {'y': 51, 'x': 62}]	France	30
+61367	J. Risdon	[{'y': 89, 'x': 26}, {'y': 39, 'x': 56}]	Australia	21
+61651	A. Behich	[{'y': 3, 'x': 36}, {'y': 5, 'x': 54}]	Australia	23
+61407	T. Rogi\u0107	[{'y': 87, 'x': 63}, {'y': 95, 'x': 59}]	Australia	43
+69978	T. Juri\u0107	[{'y': 7, 'x': 85}, {'y': 8, 'x': 89}]	Australia	13
+62743	J. Irvine	[{'y': 17, 'x': 88}, {'y': 13, 'x': 94}]	Australia	12
+403613	D. Arzani	[{'y': 22, 'x': 69}, {'y': 27, 'x': 65}]	Australia	6
+139075	R. Tapia	[{'y': 47, 'x': 37}, {'y': 39, 'x': 32}]	Peru	7
+114723	Y. Yot\u00fan	[{'y': 39, 'x': 32}, {'y': 96, 'x': 39}]	Peru	6
+114709	L. Adv\u00edncula	[{'y': 96, 'x': 39}, {'y': 39, 'x': 32}]	Peru	55
+115353	A. Santamar\u00eda	[{'y': 39, 'x': 32}, {'y': 25, 'x': 43}]	Peru	14
+115146	M. Trauco	[{'y': 7, 'x': 51}, {'y': 30, 'x': 37}]	Peru	41
+114617	C. Ramos	[{'y': 77, 'x': 39}, {'y': 95, 'x': 61}]	Peru	28
+70156	A. Carrillo	[{'y': 95, 'x': 61}, {'y': 85, 'x': 42}]	Peru	20
+114762	\u00c9. Flores	[{'y': 4, 'x': 56}, {'y': 10, 'x': 66}]	Peru	19
+14909	P. Guerrero	[{'y': 88, 'x': 45}, {'y': 84, 'x': 45}]	Peru	20
+114813	C. Cueva	[{'y': 84, 'x': 45}, {'y': 87, 'x': 48}]	Peru	29
+114798	P. Gallese	[{'y': 100, 'x': 100}, {'y': 90, 'x': 29}]	Peru	32
+139078	P. Aquino	[{'y': 28, 'x': 67}, {'y': 44, 'x': 29}]	Peru	16
+8247	T. Cahill	[{'y': 78, 'x': 96}, {'y': 83, 'x': 97}]	Australia	3
+114624	P. Hurtado	[{'y': 65, 'x': 37}, {'y': 51, 'x': 32}]	Peru	0
+139080	W. Cartagena	[{'y': 40, 'x': 44}, {'y': 85, 'x': 54}]	Peru	-3
+8307	V. Kompany	[{'y': 42, 'x': 19}, {'y': 86, 'x': 20}]	Belgium	49
+8464	F. Delph	[{'y': 19, 'x': 65}, {'y': 21, 'x': 64}]	England	7
+8292	D. Rose	[{'y': 21, 'x': 64}, {'y': 20, 'x': 63}]	England	18
+235555	R. Loftus-Cheek	[{'y': 67, 'x': 71}, {'y': 19, 'x': 76}]	England	25
+11066	R. Sterling	[{'y': 19, 'x': 76}, {'y': 9, 'x': 63}]	England	33
+210044	E. Dier	[{'y': 48, 'x': 41}, {'y': 83, 'x': 34}]	England	26
+7918	P. Jones	[{'y': 83, 'x': 34}, {'y': 57, 'x': 28}]	England	14
+9380	J. Stones	[{'y': 57, 'x': 28}, {'y': 62, 'x': 41}]	England	111
+8653	H. Maguire	[{'y': 17, 'x': 38}, {'y': 26, 'x': 42}]	England	96
+8945	K. Trippier	[{'y': 93, 'x': 61}, {'y': 79, 'x': 37}]	England	81
+10131	J. Pickford	[{'y': 42, 'x': 10}, {'y': 7, 'x': 63}]	England	79
+261	N. Chadli	[{'y': 24, 'x': 12}, {'y': 17, 'x': 26}]	Belgium	43
+8717	H. Kane	[{'y': 9, 'x': 71}, {'y': 26, 'x': 72}]	England	75
+7860	T. Vermaelen	[{'y': 1, 'x': 16}, {'y': 0, 'x': 25}]	Belgium	8
+7934	J. Lingard	[{'y': 49, 'x': 49}, {'y': 50, 'x': 33}]	England	38
+397178	M. Rashford	[{'y': 45, 'x': 70}, {'y': 64, 'x': 69}]	England	25
+11152	M. Demb\u00e9l\u00e9	[{'y': 34, 'x': 8}, {'y': 12, 'x': 13}]	Belgium	17
+13484	D. Alli	[{'y': 26, 'x': 62}, {'y': 32, 'x': 58}]	England	54
+93	J. Gu\u00f0munds\u00adson	[{'y': 50, 'x': 49}, {'y': 34, 'x': 34}]	Iceland	23
+38084	B. Bjarnason	[{'y': 34, 'x': 34}, {'y': 48, 'x': 73}]	Iceland	31
+57347	S. Ingason	[{'y': 63, 'x': 68}, {'y': 47, 'x': 72}]	Iceland	28
+14771	V. \u0106orluka	[{'y': 58, 'x': 22}, {'y': 39, 'x': 39}]	Croatia	40
+77521	A. Gunnarsson	[{'y': 61, 'x': 61}, {'y': 63, 'x': 72}]	Iceland	28
+55983	R. Sigur\u00f0sson	[{'y': 63, 'x': 72}, {'y': 59, 'x': 82}]	Iceland	38
+230626	D. \u0106aleta-Car	[{'y': 41, 'x': 18}, {'y': 13, 'x': 46}]	Croatia	8
+54451	B. S\u00e6varsson	[{'y': 87, 'x': 54}, {'y': 30, 'x': 78}]	Iceland	32
+212604	T. Jedvaj	[{'y': 70, 'x': 22}, {'y': 71, 'x': 34}]	Croatia	0
+135810	M. Pjaca	[{'y': 71, 'x': 34}, {'y': 63, 'x': 35}]	Croatia	5
+77558	G. Sigur\u00f0sson	[{'y': 29, 'x': 66}, {'y': 37, 'x': 65}]	Iceland	44
+21314	E. Hallfre\u00f0sson	[{'y': 37, 'x': 65}, {'y': 66, 'x': 53}]	Iceland	25
+69353	L. Kalini\u0107	[{'y': 71, 'x': 8}, {'y': 93, 'x': 44}]	Croatia	19
+135207	H. Magn\u00fasson	[{'y': 7, 'x': 56}, {'y': 9, 'x': 57}]	Iceland	45
+37948	A. Finnbogason	[{'y': 29, 'x': 60}, {'y': 52, 'x': 53}]	Iceland	16
+57226	H. Halld\u00f3rsson	[{'y': 78, 'x': 9}, {'y': 48, 'x': 20}]	Iceland	38
+231713	F. Bradari\u0107	[{'y': 55, 'x': 69}, {'y': 62, 'x': 59}]	Croatia	2
+54495	B. Sigur\u00f0arson	[{'y': 59, 'x': 74}, {'y': 75, 'x': 65}]	Iceland	2
+216568	A. Gudmundsson	[{'y': 39, 'x': 59}, {'y': 53, 'x': 61}]	Iceland	1
+57480	A. Traustason	[{'y': 4, 'x': 71}, {'y': 45, 'x': 70}]	Iceland	0
+20938	V. Behrami	[{'y': 88, 'x': 43}, {'y': 99, 'x': 55}]	Switzerland	18
+20465	S. Lichtsteiner	[{'y': 99, 'x': 55}, {'y': 90, 'x': 42}]	Switzerland	28
+50102	F. Sch\u00e4r	[{'y': 68, 'x': 35}, {'y': 53, 'x': 38}]	Switzerland	34
+297957	M. Akanji	[{'y': 53, 'x': 38}, {'y': 90, 'x': 64}]	Switzerland	56
+49872	X. Shaqiri	[{'y': 90, 'x': 64}, {'y': 92, 'x': 90}]	Switzerland	52
+20766	H. Seferovi\u0107	[{'y': 92, 'x': 90}, {'y': 95, 'x': 93}]	Switzerland	12
+49997	S. Zuber	[{'y': 18, 'x': 60}, {'y': 20, 'x': 38}]	Switzerland	21
+14922	R. Rodr\u00edguez	[{'y': 18, 'x': 36}, {'y': 17, 'x': 40}]	Switzerland	38
+49876	G. Xhaka	[{'y': 12, 'x': 38}, {'y': 44, 'x': 34}]	Switzerland	25
+70083	Danilo	[{'y': 91, 'x': 31}, {'y': 94, 'x': 25}]	Brazil	8
+21169	B. D\u017eemaili	[{'y': 30, 'x': 88}, {'y': 43, 'x': 100}]	Switzerland	5
+49855	Y. Sommer	[{'y': 37, 'x': 12}, {'y': 19, 'x': 24}]	Switzerland	53
+360992	D. Zakaria	[{'y': 41, 'x': 22}, {'y': 36, 'x': 15}]	Switzerland	-1
+15808	Roberto Firmino	[{'y': 7, 'x': 91}, {'y': 14, 'x': 87}]	Brazil	26
+282772	B. Embolo	[{'y': 68, 'x': 14}, {'y': 70, 'x': 11}]	Switzerland	7
+49977	M. Lang	[{'y': 65, 'x': 12}, {'y': 65, 'x': 11}]	Switzerland	4
+395636	Maxi G\u00f3mez	[{'y': 8, 'x': 74}, {'y': 11, 'x': 83}]	Uruguay	3
+70379	J. Urretavizcaya	[{'y': 94, 'x': 72}, {'y': 80, 'x': 71}]	Uruguay	3
+8200	S. N'Zonzi	[{'y': 77, 'x': 45}, {'y': 91, 'x': 45}]	France	25
+220971	D. Kuzyaev	[{'y': 68, 'x': 62}, {'y': 74, 'x': 75}]	Russia	22
+257800	A. Golovin	[{'y': 74, 'x': 75}, {'y': 70, 'x': 75}]	Russia	44
+101699	A. Samedov	[{'y': 69, 'x': 66}, {'y': 60, 'x': 69}]	Russia	16
+41123	M\u00e1rio Fernandes	[{'y': 94, 'x': 67}, {'y': 89, 'x': 86}]	Russia	58
+101669	A. Dzyuba	[{'y': 89, 'x': 86}, {'y': 84, 'x': 92}]	Russia	45
+103682	R. Zobnin	[{'y': 64, 'x': 30}, {'y': 66, 'x': 37}]	Russia	103
+4513	D. Cheryshev	[{'y': 68, 'x': 86}, {'y': 70, 'x': 93}]	Russia	69
+101647	F. Kudryashov	[{'y': 0, 'x': 40}, {'y': 11, 'x': 26}]	Russia	15
+101583	S. Ignashevich	[{'y': 11, 'x': 26}, {'y': 53, 'x': 24}]	Russia	97
+103668	I. Kutepov	[{'y': 53, 'x': 24}, {'y': 58, 'x': 8}]	Russia	89
+101576	I. Akinfeev	[{'y': 58, 'x': 8}, {'y': 18, 'x': 15}]	Russia	70
+101953	A. Erokhin	[{'y': 97, 'x': 24}, {'y': 98, 'x': 19}]	Russia	2
+101707	F. Smolov	[{'y': 79, 'x': 75}, {'y': 69, 'x': 68}]	Russia	24
+102157	Y. Gazinskiy	[{'y': 70, 'x': 45}, {'y': 90, 'x': 44}]	Russia	31
+101590	A. Dzagoev	[{'y': 5, 'x': 66}, {'y': 51, 'x': 92}]	Russia	12
+94814	G. Sh\u014dji	[{'y': 23, 'x': 58}, {'y': 73, 'x': 87}]	Japan	26
+14816	S. Kagawa	[{'y': 65, 'x': 78}, {'y': 57, 'x': 79}]	Japan	21
+94650	G. Haraguchi	[{'y': 64, 'x': 59}, {'y': 73, 'x': 46}]	Japan	21
+101592	K. Honda	[{'y': 87, 'x': 60}, {'y': 92, 'x': 54}]	Japan	8
+7898	J. Obi Mikel	[{'y': 50, 'x': 50}, {'y': 41, 'x': 29}]	Nigeria	28
+11093	W. Troost-Ekong	[{'y': 41, 'x': 29}, {'y': 0, 'x': 65}]	Nigeria	32
+3323	G. Higua\u00edn	[{'y': 35, 'x': 57}, {'y': 74, 'x': 57}]	Argentina	13
+8625	V. Moses	[{'y': 100, 'x': 33}, {'y': 84, 'x': 37}]	Nigeria	63
+265366	W. Ndidi	[{'y': 84, 'x': 37}, {'y': 94, 'x': 29}]	Nigeria	63
+424624	O. Etebo	[{'y': 47, 'x': 44}, {'y': 18, 'x': 35}]	Nigeria	67
+209792	B. Idowu	[{'y': 18, 'x': 35}, {'y': 3, 'x': 68}]	Nigeria	27
+12	K. Omeruo	[{'y': 16, 'x': 35}, {'y': 37, 'x': 9}]	Nigeria	33
+285491	F. Uzoho	[{'y': 37, 'x': 9}, {'y': 4, 'x': 43}]	Nigeria	27
+101606	A. Musa	[{'y': 7, 'x': 46}, {'y': 8, 'x': 38}]	Nigeria	37
+285508	K. Iheanacho	[{'y': 18, 'x': 56}, {'y': 17, 'x': 46}]	Nigeria	8
+16443	L. Balogun	[{'y': 67, 'x': 20}, {'y': 68, 'x': 13}]	Nigeria	32
+5295	O. Ighalo	[{'y': 68, 'x': 68}, {'y': 74, 'x': 59}]	Nigeria	4
+72397	Simy	[{'y': 8, 'x': 34}, {'y': 11, 'x': 15}]	Nigeria	-4
+230020	A. Iwobi	[{'y': 26, 'x': 13}, {'y': 32, 'x': 7}]	Nigeria	2
+299121	Jae-Sung Lee	[{'y': 50, 'x': 51}, {'y': 46, 'x': 31}]	Korea Republic	47
+95200	Young-Gwon Kim	[{'y': 46, 'x': 31}, {'y': 96, 'x': 69}]	Korea Republic	34
+51217	L. Augustinsson	[{'y': 4, 'x': 31}, {'y': 16, 'x': 20}]	Sweden	26
+349687	Hwang Hee-Chan	[{'y': 96, 'x': 69}, {'y': 84, 'x': 80}]	Korea Republic	23
+21275	A. Granqvist	[{'y': 16, 'x': 20}, {'y': 19, 'x': 43}]	Sweden	116
+61962	Sung-Yeung Ki	[{'y': 81, 'x': 57}, {'y': 98, 'x': 63}]	Korea Republic	31
+107529	Yong Lee	[{'y': 98, 'x': 63}, {'y': 92, 'x': 60}]	Korea Republic	46
+51132	E. Forsberg	[{'y': 8, 'x': 40}, {'y': 0, 'x': 44}]	Sweden	61
+138633	Hyun-Soo Jang	[{'y': 86, 'x': 40}, {'y': 32, 'x': 37}]	Korea Republic	22
+256043	Hyun-Woo Cho	[{'y': 52, 'x': 8}, {'y': 68, 'x': 66}]	Korea Republic	47
+20876	A. Ekdal	[{'y': 36, 'x': 43}, {'y': 36, 'x': 47}]	Sweden	85
+8529	S. Larsson	[{'y': 34, 'x': 30}, {'y': 22, 'x': 33}]	Sweden	13
+123	O. Toivonen	[{'y': 74, 'x': 75}, {'y': 78, 'x': 67}]	Sweden	41
+61949	M. Lustig	[{'y': 78, 'x': 67}, {'y': 78, 'x': 71}]	Sweden	56
+14911	Son Heung-Min	[{'y': 22, 'x': 33}, {'y': 22, 'x': 29}]	Korea Republic	77
+15781	Ja-Cheol Koo	[{'y': 14, 'x': 57}, {'y': 9, 'x': 69}]	Korea Republic	5
+50806	P. Jansson	[{'y': 91, 'x': 31}, {'y': 95, 'x': 38}]	Sweden	4
+50798	R. Olsen	[{'y': 81, 'x': 12}, {'y': 78, 'x': 27}]	Sweden	39
+49862	Joo-Ho Park	[{'y': 15, 'x': 22}, {'y': 15, 'x': 8}]	Korea Republic	-2
+51144	V. Claesson	[{'y': 85, 'x': 92}, {'y': 88, 'x': 90}]	Sweden	94
+107548	Shin-Wook Kim	[{'y': 14, 'x': 68}, {'y': 15, 'x': 66}]	Korea Republic	-1
+14908	M. Berg	[{'y': 94, 'x': 63}, {'y': 74, 'x': 74}]	Sweden	30
+95299	Min-Woo Kim	[{'y': 30, 'x': 54}, {'y': 65, 'x': 87}]	Korea Republic	12
+95490	Woo-Young Jung	[{'y': 68, 'x': 35}, {'y': 56, 'x': 54}]	Korea Republic	9
+51145	O. Hiljemark	[{'y': 29, 'x': 62}, {'y': 46, 'x': 53}]	Sweden	7
+403546	Lee Seung-Woo	[{'y': 2, 'x': 65}, {'y': 42, 'x': 68}]	Korea Republic	-1
+51262	I. Kiese Thelin	[{'y': 12, 'x': 28}, {'y': 14, 'x': 20}]	Sweden	0
+32798	G. Svensson	[{'y': 86, 'x': 66}, {'y': 80, 'x': 38}]	Sweden	24
+4338	Diego Costa	[{'y': 48, 'x': 50}, {'y': 51, 'x': 33}]	Spain	19
+3346	Sergio Busquets	[{'y': 51, 'x': 33}, {'y': 20, 'x': 34}]	Spain	43
+3306	Sergio Ramos	[{'y': 20, 'x': 34}, {'y': 5, 'x': 37}]	Spain	28
+3269	Jordi Alba	[{'y': 5, 'x': 37}, {'y': 23, 'x': 32}]	Spain	17
+3341	Piqu\u00e9	[{'y': 61, 'x': 30}, {'y': 22, 'x': 38}]	Spain	42
+3353	Iniesta	[{'y': 29, 'x': 48}, {'y': 22, 'x': 32}]	Spain	22
+3563	Isco	[{'y': 15, 'x': 39}, {'y': 29, 'x': 34}]	Spain	74
+8317	David Silva	[{'y': 92, 'x': 73}, {'y': 92, 'x': 63}]	Spain	20
+243588	Bruno Fernandes	[{'y': 8, 'x': 37}, {'y': 0, 'x': 23}]	Portugal	20
+3304	Nacho	[{'y': 92, 'x': 63}, {'y': 100, 'x': 77}]	Spain	13
+70389	C\u00e9dric Soares	[{'y': 88, 'x': 65}, {'y': 67, 'x': 61}]	Portugal	18
+70093	Jo\u00e3o Moutinho	[{'y': 67, 'x': 61}, {'y': 60, 'x': 44}]	Portugal	15
+7910	David de Gea	[{'y': 100, 'x': 100}, {'y': 49, 'x': 10}]	Spain	26
+3443	Koke	[{'y': 79, 'x': 66}, {'y': 44, 'x': 32}]	Spain	28
+3345	Thiago Alc\u00e2ntara	[{'y': 27, 'x': 46}, {'y': 29, 'x': 35}]	Spain	7
+3840	Iago Aspas	[{'y': 80, 'x': 72}, {'y': 74, 'x': 68}]	Spain	13
+4498	Lucas V\u00e1zquez	[{'y': 95, 'x': 30}, {'y': 100, 'x': 30}]	Spain	5
+265368	A. Shehu	[{'y': 76, 'x': 25}, {'y': 59, 'x': 9}]	Nigeria	18
+91002	O. Murillo	[{'y': 20, 'x': 31}, {'y': 28, 'x': 42}]	Colombia	20
+91702	J. Mojica	[{'y': 0, 'x': 20}, {'y': 6, 'x': 55}]	Colombia	38
+91381	J. Izquierdo	[{'y': 6, 'x': 55}, {'y': 10, 'x': 54}]	Colombia	-1
+3450	R. Falcao	[{'y': 26, 'x': 45}, {'y': 23, 'x': 36}]	Colombia	12
+255738	J. Lerma	[{'y': 23, 'x': 36}, {'y': 22, 'x': 37}]	Colombia	7
+26518	C. S\u00e1nchez	[{'y': 35, 'x': 33}, {'y': 24, 'x': 33}]	Colombia	4
+70136	S. Arias	[{'y': 91, 'x': 39}, {'y': 95, 'x': 56}]	Colombia	61
+20751	J. Cuadrado	[{'y': 95, 'x': 56}, {'y': 84, 'x': 50}]	Colombia	45
+91019	J. Quintero	[{'y': 84, 'x': 50}, {'y': 97, 'x': 46}]	Colombia	48
+257762	D. S\u00e1nchez	[{'y': 88, 'x': 28}, {'y': 37, 'x': 28}]	Colombia	67
+25662	D. Ospina	[{'y': 44, 'x': 10}, {'y': 26, 'x': 31}]	Colombia	51
+246928	W. Barrios	[{'y': 84, 'x': 10}, {'y': 93, 'x': 12}]	Colombia	32
+70096	J. Rodr\u00edguez	[{'y': 76, 'x': 64}, {'y': 74, 'x': 57}]	Colombia	2
+37831	C. Bacca	[{'y': 88, 'x': 61}, {'y': 93, 'x': 68}]	Colombia	16
+3685	C. Vela	[{'y': 50, 'x': 50}, {'y': 53, 'x': 45}]	Mexico	57
+112459	H. Herrera	[{'y': 53, 'x': 45}, {'y': 10, 'x': 31}]	Mexico	43
+336178	J. Gallardo	[{'y': 10, 'x': 31}, {'y': 33, 'x': 26}]	Mexico	84
+3795	H. Moreno	[{'y': 33, 'x': 26}, {'y': 61, 'x': 28}]	Mexico	29
+112777	H. Ayala	[{'y': 61, 'x': 28}, {'y': 48, 'x': 10}]	Mexico	32
+25816	G. Ochoa	[{'y': 48, 'x': 10}, {'y': 15, 'x': 46}]	Mexico	77
+14732	T. M\u00fcller	[{'y': 85, 'x': 54}, {'y': 74, 'x': 66}]	Germany	12
+3319	M. \u00d6zil	[{'y': 74, 'x': 66}, {'y': 73, 'x': 58}]	Germany	12
+3318	S. Khedira	[{'y': 73, 'x': 58}, {'y': 92, 'x': 67}]	Germany	23
+295156	H. Lozano	[{'y': 19, 'x': 38}, {'y': 30, 'x': 37}]	Mexico	91
+3384	A. Guardado	[{'y': 26, 'x': 31}, {'y': 27, 'x': 41}]	Mexico	47
+14723	T. Kroos	[{'y': 62, 'x': 54}, {'y': 51, 'x': 45}]	Germany	28
+7941	J. Hern\u00e1ndez	[{'y': 49, 'x': 55}, {'y': 95, 'x': 34}]	Mexico	32
+255387	C. Salcedo	[{'y': 95, 'x': 34}, {'y': 76, 'x': 58}]	Mexico	62
+14716	J. Boateng	[{'y': 63, 'x': 9}, {'y': 59, 'x': 0}]	Germany	26
+112366	M. Lay\u00fan	[{'y': 0, 'x': 100}, {'y': 50, 'x': 95}]	Mexico	56
+14795	M. Hummels	[{'y': 50, 'x': 5}, {'y': 40, 'x': 4}]	Germany	43
+15125	M. Plattenhardt	[{'y': 40, 'x': 4}, {'y': 52, 'x': 3}]	Germany	5
+14712	M. Neuer	[{'y': 52, 'x': 4}, {'y': 45, 'x': 7}]	Germany	39
+224593	J. Kimmich	[{'y': 92, 'x': 24}, {'y': 85, 'x': 26}]	Germany	35
+173214	T. Werner	[{'y': 73, 'x': 40}, {'y': 76, 'x': 25}]	Germany	36
+14862	J. Draxler	[{'y': 1, 'x': 75}, {'y': 18, 'x': 72}]	Germany	4
+448210	E. \u00c1lvarez	[{'y': 35, 'x': 18}, {'y': 6, 'x': 11}]	Mexico	40
+15024	M. Reus	[{'y': 76, 'x': 54}, {'y': 96, 'x': 58}]	Germany	23
+112392	R. Jim\u00e9nez	[{'y': 8, 'x': 56}, {'y': 2, 'x': 56}]	Mexico	4
+59003	R. M\u00e1rquez	[{'y': 26, 'x': 27}, {'y': 44, 'x': 34}]	Mexico	23
+14731	M. G\u00f3mez	[{'y': 71, 'x': 70}, {'y': 21, 'x': 89}]	Germany	6
+146583	J. Brandt	[{'y': 11, 'x': 67}, {'y': 43, 'x': 64}]	Germany	3
+58105	J. B\u00f6\u00f0varsson	[{'y': 56, 'x': 66}, {'y': 14, 'x': 45}]	Iceland	11
+62221	K. \u00c1rnason	[{'y': 55, 'x': 19}, {'y': 32, 'x': 21}]	Iceland	0
+56146	R. G\u00edslason	[{'y': 92, 'x': 44}, {'y': 85, 'x': 89}]	Iceland	7
+332821	T. Ebuehi	[{'y': 10, 'x': 55}, {'y': 48, 'x': 37}]	Nigeria	0
+51127	A. Sk\u00falason	[{'y': 45, 'x': 73}, {'y': 42, 'x': 75}]	Iceland	0
+552555	A. El Kaabi	[{'y': 49, 'x': 49}, {'y': 42, 'x': 34}]	Morocco	1
+26226	R. Sa\u00efss	[{'y': 42, 'x': 34}, {'y': 85, 'x': 77}]	Morocco	38
+32968	N. Amrabat	[{'y': 85, 'x': 77}, {'y': 83, 'x': 73}]	Morocco	37
+79248	E. Hajsafi	[{'y': 15, 'x': 23}, {'y': 17, 'x': 27}]	Iran	28
+238031	A. Beiranvand	[{'y': 33, 'x': 25}, {'y': 41, 'x': 77}]	Iran	22
+20579	M. Benatia	[{'y': 59, 'x': 23}, {'y': 51, 'x': 36}]	Morocco	17
+79006	S. Azmoun	[{'y': 41, 'x': 77}, {'y': 49, 'x': 64}]	Iran	35
+3509	M. Shojaei	[{'y': 49, 'x': 64}, {'y': 47, 'x': 70}]	Iran	0
+101846	M. Boussoufa	[{'y': 51, 'x': 36}, {'y': 53, 'x': 30}]	Morocco	31
+25998	Y. Belhanda	[{'y': 49, 'x': 32}, {'y': 13, 'x': 38}]	Morocco	22
+372915	A. Harit	[{'y': 13, 'x': 38}, {'y': 7, 'x': 37}]	Morocco	6
+396475	A. Hakimi	[{'y': 7, 'x': 37}, {'y': 20, 'x': 37}]	Morocco	32
+79381	A. Jahanbakhsh	[{'y': 87, 'x': 14}, {'y': 44, 'x': 12}]	Iran	17
+272829	R. Cheshmi	[{'y': 44, 'x': 12}, {'y': 56, 'x': 10}]	Iran	6
+79449	M. Pouraliganji	[{'y': 56, 'x': 10}, {'y': 69, 'x': 15}]	Iran	17
+6509	Munir	[{'y': 55, 'x': 12}, {'y': 52, 'x': 25}]	Morocco	24
+142	K. El Ahmadi	[{'y': 52, 'x': 25}, {'y': 20, 'x': 39}]	Morocco	7
+79098	R. Rezaeian	[{'y': 96, 'x': 15}, {'y': 100, 'x': 0}]	Iran	29
+221039	H. Ziyech	[{'y': 50, 'x': 84}, {'y': 71, 'x': 79}]	Morocco	48
+78991	O. Ebrahimi	[{'y': 60, 'x': 5}, {'y': 72, 'x': 0}]	Iran	29
+237836	V. Amiri	[{'y': 74, 'x': 39}, {'y': 76, 'x': 30}]	Iran	21
+79149	K. Ansarifard	[{'y': 6, 'x': 8}, {'y': 6, 'x': 9}]	Iran	14
+79320	M. Taremi	[{'y': 18, 'x': 76}, {'y': 50, 'x': 71}]	Iran	53
+285590	S. Amrabat	[{'y': 92, 'x': 44}, {'y': 86, 'x': 46}]	Morocco	-2
+285538	M. Hosseini	[{'y': 47, 'x': 6}, {'y': 52, 'x': 7}]	Iran	15
+15727	A. Bouhaddouz	[{'y': 28, 'x': 62}, {'y': 37, 'x': 70}]	Morocco	4
+101620	M. da Costa	[{'y': 44, 'x': 33}, {'y': 8, 'x': 40}]	Morocco	14
+53562	S. Ghoddos	[{'y': 20, 'x': 76}, {'y': 16, 'x': 86}]	Iran	-6
+240042	D. Kownacki	[{'y': 93, 'x': 71}, {'y': 100, 'x': 66}]	Poland	4
+14798	\u0141. Piszczek	[{'y': 100, 'x': 66}, {'y': 88, 'x': 78}]	Poland	34
+7849	W. Szcz\u0119sny	[{'y': 57, 'x': 3}, {'y': 89, 'x': 19}]	Poland	21
+256634	Y. Mina	[{'y': 45, 'x': 52}, {'y': 45, 'x': 54}]	Colombia	54
+99391	M. Rybus	[{'y': 18, 'x': 89}, {'y': 33, 'x': 85}]	Poland	26
+4814	A. Aguilar	[{'y': 50, 'x': 11}, {'y': 91, 'x': 26}]	Colombia	-1
+99438	M. Pazdan	[{'y': 9, 'x': 74}, {'y': 43, 'x': 91}]	Poland	20
+91502	A. Uribe	[{'y': 42, 'x': 35}, {'y': 62, 'x': 42}]	Colombia	19
+86411	A. Cooper	[{'y': 52, 'x': 51}, {'y': 35, 'x': 30}]	Panama	15
+113517	B. P\u00e9rez	[{'y': 31, 'x': 71}, {'y': 53, 'x': 89}]	Panama	-3
+361498	M. Murillo	[{'y': 82, 'x': 57}, {'y': 80, 'x': 71}]	Panama	9
+116364	E. Davis	[{'y': 95, 'x': 89}, {'y': 60, 'x': 95}]	Panama	5
+241134	I. D\u00edaz	[{'y': 6, 'x': 32}, {'y': 4, 'x': 32}]	Panama	5
+25622	T. Hazard	[{'y': 59, 'x': 44}, {'y': 61, 'x': 43}]	Belgium	27
+7939	A. Young	[{'y': 15, 'x': 46}, {'y': 69, 'x': 41}]	England	37
+8277	K. Walker	[{'y': 69, 'x': 41}, {'y': 76, 'x': 53}]	England	76
+7964	J. Henderson	[{'y': 63, 'x': 58}, {'y': 96, 'x': 66}]	England	78
+12829	J. Vardy	[{'y': 31, 'x': 59}, {'y': 47, 'x': 52}]	England	3
+112679	F. Baloy	[{'y': 31, 'x': 5}, {'y': 25, 'x': 4}]	Panama	7
+7891	B. Ivanovi\u0107	[{'y': 100, 'x': 14}, {'y': 86, 'x': 34}]	Serbia	30
+127530	D. To\u0161i\u0107	[{'y': 66, 'x': 46}, {'y': 78, 'x': 61}]	Serbia	29
+127537	L. Milivojevi\u0107	[{'y': 90, 'x': 74}, {'y': 46, 'x': 90}]	Serbia	10
+15199	M. Gavranovi\u0107	[{'y': 44, 'x': 43}, {'y': 43, 'x': 46}]	Switzerland	5
+55977	C. Gamboa	[{'y': 89, 'x': 31}, {'y': 76, 'x': 33}]	Costa Rica	17
+51004	C. Borges	[{'y': 76, 'x': 33}, {'y': 75, 'x': 32}]	Costa Rica	34
+125284	J. Acosta	[{'y': 35, 'x': 9}, {'y': 26, 'x': 0}]	Costa Rica	16
+125250	\u00d3. Duarte	[{'y': 48, 'x': 9}, {'y': 53, 'x': 16}]	Costa Rica	17
+125260	D. Guzm\u00e1n	[{'y': 40, 'x': 9}, {'y': 42, 'x': 30}]	Costa Rica	25
+125452	J. Venegas	[{'y': 10, 'x': 69}, {'y': 16, 'x': 57}]	Costa Rica	-6
+125512	F. Calvo	[{'y': 16, 'x': 57}, {'y': 22, 'x': 30}]	Costa Rica	20
+125286	G. Gonz\u00e1lez	[{'y': 44, 'x': 32}, {'y': 61, 'x': 69}]	Costa Rica	33
+11155	B. Ruiz	[{'y': 61, 'x': 69}, {'y': 67, 'x': 98}]	Costa Rica	27
+101796	M. Ure\u00f1a	[{'y': 67, 'x': 98}, {'y': 0, 'x': 0}]	Costa Rica	-9
+3915	K. Navas	[{'y': 82, 'x': 24}, {'y': 37, 'x': 69}]	Costa Rica	45
+55988	C. Bola\u00f1os	[{'y': 2, 'x': 83}, {'y': 54, 'x': 92}]	Costa Rica	4
+26038	J. Campbell	[{'y': 65, 'x': 61}, {'y': 48, 'x': 73}]	Costa Rica	20
+125273	D. Colindres	[{'y': 6, 'x': 34}, {'y': 0, 'x': 93}]	Costa Rica	12
+50411	A. Prijovi\u0107	[{'y': 52, 'x': 69}, {'y': 79, 'x': 62}]	Serbia	-2
+262048	Al. Miranchuk	[{'y': 50, 'x': 50}, {'y': 53, 'x': 30}]	Russia	1
+7954	S. Coates	[{'y': 84, 'x': 22}, {'y': 91, 'x': 29}]	Uruguay	4
+101825	I. Smolnikov	[{'y': 80, 'x': 30}, {'y': 80, 'x': 34}]	Russia	0
+213364	G. De Arrascaeta	[{'y': 79, 'x': 88}, {'y': 50, 'x': 88}]	Uruguay	4
+29625	K. Bouta\u00efb	[{'y': 50, 'x': 50}, {'y': 48, 'x': 34}]	Morocco	-2
+149074	N. Dirar	[{'y': 84, 'x': 52}, {'y': 84, 'x': 46}]	Morocco	38
+227059	Gelson Martins	[{'y': 92, 'x': 79}, {'y': 95, 'x': 77}]	Portugal	-2
+101847	M. Carcela-Gonz\u00e1lez	[{'y': 4, 'x': 87}, {'y': 7, 'x': 79}]	Morocco	5
+25888	F. Fajr	[{'y': 30, 'x': 77}, {'y': 8, 'x': 88}]	Morocco	-7
+3551	W. Caballero	[{'y': 0, 'x': 0}, {'y': 16, 'x': 9}]	Argentina	16
+3445	E. Salvio	[{'y': 90, 'x': 30}, {'y': 77, 'x': 33}]	Argentina	29
+37732	L. Biglia	[{'y': 27, 'x': 38}, {'y': 8, 'x': 44}]	Argentina	7
+89073	M. Acu\u00f1a	[{'y': 7, 'x': 51}, {'y': 18, 'x': 67}]	Argentina	12
+89186	P. Dybala	[{'y': 56, 'x': 61}, {'y': 48, 'x': 61}]	Argentina	4
+125575	K. Waston	[{'y': 46, 'x': 37}, {'y': 34, 'x': 64}]	Costa Rica	21
+55982	B. Oviedo	[{'y': 4, 'x': 80}, {'y': 59, 'x': 100}]	Costa Rica	16
+50023	J. Drmic	[{'y': 48, 'x': 74}, {'y': 38, 'x': 76}]	Switzerland	0
+59126	R. Wallace	[{'y': 17, 'x': 68}, {'y': 6, 'x': 70}]	Costa Rica	-1
+32706	R. Azofeifa	[{'y': 23, 'x': 31}, {'y': 23, 'x': 26}]	Costa Rica	0
+373441	I. Smith	[{'y': 96, 'x': 71}, {'y': 96, 'x': 67}]	Costa Rica	0
+122671	Mohammad Al Sahlawi	[{'y': 50, 'x': 50}, {'y': 53, 'x': 35}]	Saudi Arabia	-8
+139393	Abdullah Otayf	[{'y': 53, 'x': 35}, {'y': 19, 'x': 75}]	Saudi Arabia	46
+122940	Yasir Al Shahrani	[{'y': 19, 'x': 75}, {'y': 17, 'x': 63}]	Saudi Arabia	46
+122847	Salman Al Faraj	[{'y': 17, 'x': 63}, {'y': 15, 'x': 71}]	Saudi Arabia	54
+122832	Salem Al Dawsari	[{'y': 15, 'x': 71}, {'y': 11, 'x': 92}]	Saudi Arabia	78
+122577	Taisir Al Jassim	[{'y': 35, 'x': 41}, {'y': 11, 'x': 36}]	Saudi Arabia	-6
+122651	Omar Hawsawi	[{'y': 11, 'x': 36}, {'y': 11, 'x': 35}]	Saudi Arabia	8
+101857	Y. Zhirkov	[{'y': 9, 'x': 45}, {'y': 16, 'x': 97}]	Russia	22
+292954	Mohammed Al Burayk	[{'y': 84, 'x': 3}, {'y': 100, 'x': 0}]	Saudi Arabia	37
+122561	Abdullah Al Mayouf	[{'y': 72, 'x': 18}, {'y': 14, 'x': 63}]	Saudi Arabia	21
+122888	Yahya Al Shehri	[{'y': 85, 'x': 70}, {'y': 94, 'x': 60}]	Saudi Arabia	6
+122839	Osama Hawsawi	[{'y': 71, 'x': 32}, {'y': 72, 'x': 13}]	Saudi Arabia	37
+122623	Fahad Al Muwallad	[{'y': 67, 'x': 56}, {'y': 74, 'x': 57}]	Saudi Arabia	6
+122615	Hattan Bahbir	[{'y': 89, 'x': 66}, {'y': 89, 'x': 55}]	Saudi Arabia	27
+122749	Muhannad Asiri	[{'y': 18, 'x': 61}, {'y': 23, 'x': 61}]	Saudi Arabia	4
+4501	Daniel Carvajal	[{'y': 98, 'x': 54}, {'y': 74, 'x': 45}]	Spain	15
+241647	S. Ezatolahi	[{'y': 47, 'x': 13}, {'y': 32, 'x': 29}]	Iran	41
+333803	M. Mohammadi	[{'y': 13, 'x': 3}, {'y': 8, 'x': 5}]	Iran	13
+288091	Marco Asensio	[{'y': 89, 'x': 91}, {'y': 84, 'x': 87}]	Spain	11
+70129	Rodrigo	[{'y': 91, 'x': 69}, {'y': 94, 'x': 72}]	Spain	6
+105334	Douglas Costa	[{'y': 47, 'x': 34}, {'y': 35, 'x': 35}]	Brazil	41
+447821	Y. En-Nesyri	[{'y': 90, 'x': 59}, {'y': 63, 'x': 72}]	Morocco	7
+116166	G. Varela	[{'y': 91, 'x': 53}, {'y': 65, 'x': 39}]	Uruguay	10
+398219	Ali Al Bulayhi	[{'y': 16, 'x': 32}, {'y': 35, 'x': 10}]	Saudi Arabia	9
+248328	Mohammed Al Owais	[{'y': 35, 'x': 10}, {'y': 95, 'x': 42}]	Saudi Arabia	13
+122918	Hussain Al Mogahwi	[{'y': 62, 'x': 37}, {'y': 47, 'x': 35}]	Saudi Arabia	15
+284147	Mohammed Kanno	[{'y': 70, 'x': 26}, {'y': 66, 'x': 26}]	Saudi Arabia	4
+26115	S. San\u00e9	[{'y': 51, 'x': 44}, {'y': 47, 'x': 55}]	Senegal	61
+25726	K. Koulibaly	[{'y': 62, 'x': 23}, {'y': 98, 'x': 32}]	Senegal	26
+448079	I. Sarr	[{'y': 87, 'x': 37}, {'y': 90, 'x': 40}]	Senegal	36
+375348	M. Wagu\u00e9	[{'y': 100, 'x': 43}, {'y': 91, 'x': 44}]	Senegal	39
+207164	B. N'Diaye	[{'y': 91, 'x': 44}, {'y': 90, 'x': 43}]	Senegal	10
+25898	M. Niang	[{'y': 56, 'x': 90}, {'y': 58, 'x': 90}]	Senegal	22
+25747	S. Man\u00e9	[{'y': 58, 'x': 90}, {'y': 49, 'x': 90}]	Senegal	23
+32793	A. N'Diaye	[{'y': 52, 'x': 70}, {'y': 73, 'x': 73}]	Senegal	12
+25706	I. Gueye	[{'y': 18, 'x': 86}, {'y': 40, 'x': 89}]	Senegal	23
+28529	Y. Sabaly	[{'y': 46, 'x': 66}, {'y': 45, 'x': 65}]	Senegal	2
+133897	K. N'Diaye	[{'y': 100, 'x': 100}, {'y': 63, 'x': 58}]	Senegal	26
+37725	C. Kouyat\u00e9	[{'y': 28, 'x': 60}, {'y': 22, 'x': 57}]	Senegal	9
+27412	C. N'Doye	[{'y': 22, 'x': 69}, {'y': 26, 'x': 69}]	Senegal	5
+15054	M. Diouf	[{'y': 91, 'x': 44}, {'y': 79, 'x': 69}]	Senegal	1
+346101	T. Alexander-Arnold	[{'y': 96, 'x': 57}, {'y': 49, 'x': 47}]	England	14
+7887	G. Cahill	[{'y': 7, 'x': 41}, {'y': 24, 'x': 26}]	England	10
+261127	A. Januzaj	[{'y': 38, 'x': 42}, {'y': 32, 'x': 54}]	Belgium	7
+134702	L. Dendoncker	[{'y': 80, 'x': 30}, {'y': 46, 'x': 39}]	Belgium	-2
+7945	D. Welbeck	[{'y': 35, 'x': 86}, {'y': 0, 'x': 0}]	England	0
+119975	Mohamed Abdel-Shafi	[{'y': 5, 'x': 34}, {'y': 16, 'x': 41}]	Egypt	46
+220112	Tr\u00e9z\u00e9guet	[{'y': 5, 'x': 46}, {'y': 15, 'x': 53}]	Egypt	30
+120225	Marwan Mohsen	[{'y': 15, 'x': 53}, {'y': 61, 'x': 79}]	Egypt	33
+119951	Ahmed Hegazy	[{'y': 20, 'x': 17}, {'y': 18, 'x': 61}]	Egypt	54
+120167	Abdallah Said	[{'y': 30, 'x': 41}, {'y': 12, 'x': 28}]	Egypt	33
+437417	Tarek Hamed	[{'y': 12, 'x': 28}, {'y': 25, 'x': 32}]	Egypt	38
+198120	Ali Gabr	[{'y': 57, 'x': 17}, {'y': 47, 'x': 19}]	Egypt	31
+120339	Mohamed Elneny	[{'y': 59, 'x': 21}, {'y': 75, 'x': 33}]	Egypt	18
+388928	Amr Warda	[{'y': 95, 'x': 31}, {'y': 45, 'x': 53}]	Egypt	33
+120000	Mohamed El Shenawy	[{'y': 39, 'x': 11}, {'y': 41, 'x': 24}]	Egypt	27
+120156	Ahmed Fathy	[{'y': 96, 'x': 24}, {'y': 91, 'x': 46}]	Egypt	28
+11270	S. Morsy	[{'y': 24, 'x': 34}, {'y': 24, 'x': 30}]	Egypt	7
+119932	Mahmoud Kahraba	[{'y': 21, 'x': 72}, {'y': 24, 'x': 69}]	Egypt	4
+332605	Ramadan Sobhi	[{'y': 7, 'x': 79}, {'y': 19, 'x': 80}]	Egypt	8
+134383	N. S\u00fcle	[{'y': 62, 'x': 31}, {'y': 52, 'x': 37}]	Germany	10
+51625	Seon-Min Moon	[{'y': 19, 'x': 42}, {'y': 20, 'x': 43}]	Korea Republic	5
+18669	J. Hector	[{'y': 0, 'x': 29}, {'y': 12, 'x': 32}]	Germany	19
+107424	Young-Sun Yun	[{'y': 78, 'x': 39}, {'y': 30, 'x': 22}]	Korea Republic	19
+107413	Chul Hong	[{'y': 7, 'x': 31}, {'y': 5, 'x': 96}]	Korea Republic	13
+134387	L. Goretzka	[{'y': 83, 'x': 60}, {'y': 48, 'x': 46}]	Germany	4
+209567	Se-Jong Ju	[{'y': 48, 'x': 30}, {'y': 39, 'x': 45}]	Korea Republic	7
+107623	Yo-Han Go	[{'y': 11, 'x': 13}, {'y': 12, 'x': 15}]	Korea Republic	1
+71703	V. Lindel\u00f6f	[{'y': 66, 'x': 29}, {'y': 93, 'x': 30}]	Sweden	51
+7850	J. Djourou	[{'y': 75, 'x': 40}, {'y': 75, 'x': 40}]	Switzerland	5
+51064	E. Krafth	[{'y': 71, 'x': 28}, {'y': 90, 'x': 26}]	Sweden	15
+8192	M. Olsson	[{'y': 9, 'x': 89}, {'y': 0, 'x': 0}]	Sweden	0
+125268	Y. Tejeda	[{'y': 26, 'x': 33}, {'y': 3, 'x': 29}]	Costa Rica	-5
+3349	J. dos Santos	[{'y': 37, 'x': 46}, {'y': 30, 'x': 48}]	Mexico	0
+40539	Marquinhos	[{'y': 84, 'x': 25}, {'y': 91, 'x': 36}]	Brazil	1
+151	J. Guidetti	[{'y': 45, 'x': 7}, {'y': 68, 'x': 10}]	Sweden	11
+149050	M. Hassen	[{'y': 48, 'x': 7}, {'y': 15, 'x': 13}]	Tunisia	6
+354041	M. Ben Amor	[{'y': 15, 'x': 35}, {'y': 0, 'x': 41}]	Tunisia	4
+26668	S. Khalifa	[{'y': 33, 'x': 67}, {'y': 49, 'x': 55}]	Tunisia	-1
+70144	A. Rodr\u00edguez	[{'y': 33, 'x': 31}, {'y': 33, 'x': 27}]	Peru	14
+14872	J. Farf\u00e1n	[{'y': 47, 'x': 39}, {'y': 70, 'x': 27}]	Peru	4
+89571	R. Ruid\u00edaz	[{'y': 60, 'x': 34}, {'y': 49, 'x': 31}]	Peru	3
+120353	Mohamed Salah	[{'y': 64, 'x': 67}, {'y': 62, 'x': 70}]	Egypt	51
+120269	Essam El Hadary	[{'y': 32, 'x': 7}, {'y': 84, 'x': 22}]	Egypt	20
+139391	Motaz Hawsawi	[{'y': 35, 'x': 42}, {'y': 51, 'x': 43}]	Saudi Arabia	9
+122562	Yasser Al Mosailem	[{'y': 66, 'x': 9}, {'y': 63, 'x': 31}]	Saudi Arabia	6
+14748	A. R\u00fcdiger	[{'y': 14, 'x': 28}, {'y': 2, 'x': 31}]	Germany	4
+15811	S. Rudy	[{'y': 33, 'x': 52}, {'y': 47, 'x': 36}]	Germany	-1
+14808	\u0130. G\u00fcndo\u011fan	[{'y': 37, 'x': 63}, {'y': 76, 'x': 63}]	Germany	6
+50812	J. Durmaz	[{'y': 78, 'x': 93}, {'y': 76, 'x': 97}]	Sweden	-3
+112253	M. Fabi\u00e1n	[{'y': 17, 'x': 57}, {'y': 60, 'x': 58}]	Mexico	1
+112522	J. Corona	[{'y': 96, 'x': 71}, {'y': 68, 'x': 71}]	Mexico	5
+112710	O. Peralta	[{'y': 66, 'x': 78}, {'y': 50, 'x': 78}]	Mexico	-1
+26022	L. Gassama	[{'y': 83, 'x': 35}, {'y': 75, 'x': 46}]	Senegal	15
+256480	B. Keita	[{'y': 18, 'x': 88}, {'y': 0, 'x': 0}]	Senegal	19
+20764	L. Muriel	[{'y': 3, 'x': 55}, {'y': 9, 'x': 60}]	Colombia	13
+97582	M. Konat\u00e9	[{'y': 69, 'x': 73}, {'y': 59, 'x': 88}]	Senegal	3
+26610	D. Sakho	[{'y': 27, 'x': 89}, {'y': 31, 'x': 78}]	Senegal	0
+91156	M. Borja	[{'y': 36, 'x': 88}, {'y': 28, 'x': 91}]	Colombia	-4
+14744	W. Kvist	[{'y': 89, 'x': 48}, {'y': 93, 'x': 50}]	Denmark	2
+56026	J. Stryger Larsen	[{'y': 20, 'x': 16}, {'y': 16, 'x': 31}]	Denmark	17
+3531	C. Zapata	[{'y': 87, 'x': 37}, {'y': 97, 'x': 72}]	Colombia	0
+8297	G. dos Santos	[{'y': 83, 'x': 46}, {'y': 91, 'x': 45}]	Mexico	-1
+26196	D. Sidib\u00e9	[{'y': 96, 'x': 33}, {'y': 71, 'x': 30}]	France	4
+231138	P. Kimpembe	[{'y': 40, 'x': 31}, {'y': 67, 'x': 33}]	France	16
+28922	T. Lemar	[{'y': 36, 'x': 71}, {'y': 66, 'x': 62}]	France	5
+25552	S. Mandanda	[{'y': 42, 'x': 26}, {'y': 79, 'x': 38}]	France	11
+26136	B. Mendy	[{'y': 2, 'x': 43}, {'y': 33, 'x': 36}]	France	9
+1722	V. Fischer	[{'y': 38, 'x': 74}, {'y': 0, 'x': 0}]	Denmark	2
+281254	K. Dolberg	[{'y': 55, 'x': 62}, {'y': 63, 'x': 42}]	Denmark	-5
+99661	T. Cionek	[{'y': 57, 'x': 16}, {'y': 64, 'x': 30}]	Poland	10
+14804	J. B\u0142aszczykowski	[{'y': 90, 'x': 89}, {'y': 85, 'x': 72}]	Poland	-3
+99452	A. Milik	[{'y': 73, 'x': 41}, {'y': 63, 'x': 33}]	Poland	-7
+101682	V. Granat	[{'y': 10, 'x': 15}, {'y': 12, 'x': 19}]	Russia	2
