@@ -116,16 +116,16 @@ public class CalcPointLogic {
 
 		//Goodイベント
 		if (unitTagAll.indexOf(defTag1Good) != -1) {
-			point += 2;
+			point += 1;
 		}
 		if (unitTagAll.indexOf(defTag2Good) != -1) {
-			point += 2;
+			point += 1;
 		}
 		if (unitTagAll.indexOf(defTag3Good) != -1) {
-			point += 2;
+			point += 1;
 		}
 		if (unitTagAll.indexOf(defTag4Good) != -1) {
-			point += 2;
+			point += 1;
 		}
 
 		return point;
